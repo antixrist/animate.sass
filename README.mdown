@@ -6,9 +6,9 @@ The core of Animate.sass, despite being named "dot sass", is written in [SCSS](h
 
 ## Installation
 
-1. `gem install animate-sass`
-2. Add `require 'animate-sass'` in Compass's `config.rb` file
-3. Then `@import animate.sass` (all animations)
+1) `gem install animate-sass`
+2) Add `require 'animate-sass'` in Compass's `config.rb` file
+3) Then `@import animate.sass` (all animations)
 
 ## Usage
 
